@@ -1,533 +1,785 @@
 #EXTM3U
-#EXTINF:0,TF1-HD
-http://163.172.30.64:8789/live/admin/12345678/1501.ts
-#EXTINF:0,TF1
-http://163.172.30.64:8789/live/admin/12345678/84.ts
-#EXTINF:0,FRANCE.2-HD
-http://163.172.30.64:8789/live/admin/12345678/1502.ts
-#EXTINF:0,FRANCE.3-HD
-http://163.172.30.64:8789/live/admin/12345678/1503.ts
-#EXTINF:0,FRANCE.4-HD
-http://163.172.30.64:8789/live/admin/12345678/1504.ts
-#EXTINF:0,FRANCE.5-HD
-http://163.172.30.64:8789/live/admin/12345678/1505.ts
-#EXTINF:0,FRANCE_O_HD
-http://163.172.30.64:8789/live/admin/12345678/161.ts
-#EXTINF:0,FRANCE_O
-http://163.172.30.64:8789/live/admin/12345678/89.ts
-#EXTINF:0,France_2.SD
-http://163.172.30.64:8789/live/admin/12345678/1007.ts
-#EXTINF:0,France_3.SD
-http://163.172.30.64:8789/live/admin/12345678/1008.ts
-#EXTINF:0,France_4.SD
-http://163.172.30.64:8789/live/admin/12345678/1009.ts
-#EXTINF:0,France_5.SD
-http://163.172.30.64:8789/live/admin/12345678/1013.ts
-#EXTINF:0,France_Ô.SD
-http://163.172.30.64:8789/live/admin/12345678/1021.ts
-#EXTINF:0,M6-HD
-http://163.172.30.64:8789/live/admin/12345678/1500.ts
-#EXTINF:0,M6
-http://163.172.30.64:8789/live/admin/12345678/90.ts
-#EXTINF:0,PARIS_PREMIERE.HD
-http://163.172.30.64:8789/live/admin/12345678/243.ts
-#EXTINF:0,Paris_premiere.SD
-http://163.172.30.64:8789/live/admin/12345678/1030.ts
-#EXTINF:0,TMC-HD
-http://163.172.30.64:8789/live/admin/12345678/1506.ts
-#EXTINF:0,TMC_SD
-http://163.172.30.64:8789/live/admin/12345678/1014.ts
-#EXTINF:0,TV_BREIZH
-http://163.172.30.64:8789/live/admin/12345678/244.ts
-#EXTINF:0,6ter-HD
-http://163.172.30.64:8789/live/admin/12345678/1509.ts
-#EXTINF:0,6ter_SD
-http://163.172.30.64:8789/live/admin/12345678/1024.ts
-#EXTINF:0,ARTE-HD
-http://163.172.30.64:8789/live/admin/12345678/1513.ts
-#EXTINF:0,ARTE_SD
-http://163.172.30.64:8789/live/admin/12345678/426.ts
-#EXTINF:0,<<<<<>>>>>
-http://163.172.30.64:8789/live/admin/12345678/111.ts
-#EXTINF:0,CANAL+HD
-http://163.172.30.64:8789/live/admin/12345678/154.ts
-#EXTINF:0,CANAL+
-http://163.172.30.64:8789/live/admin/12345678/112.ts
-#EXTINF:0,CANAL+DECALE_HD
-http://163.172.30.64:8789/live/admin/12345678/153.ts
-#EXTINF:0,CANAL-DECALE
-http://163.172.30.64:8789/live/admin/12345678/1624.ts
-#EXTINF:0,CANAL+FAMILY_
-http://163.172.30.64:8789/live/admin/12345678/163.ts
-#EXTINF:0,CANAL+FAMILY_HD
-http://163.172.30.64:8789/live/admin/12345678/115.ts
-#EXTINF:0,CANAL+CINEMA
-http://163.172.30.64:8789/live/admin/12345678/113.ts
-#EXTINF:0,CANAL+CINEMA_HD
-http://163.172.30.64:8789/live/admin/12345678/164.ts
-#EXTINF:0,OCS_MAX
-http://163.172.30.64:8789/live/admin/12345678/409.ts
-#EXTINF:0,OCS.GEANTS-HD
-http://163.172.30.64:8789/live/admin/12345678/1397.ts
-#EXTINF:0,OCS_GEANTS
-http://163.172.30.64:8789/live/admin/12345678/313.ts
-#EXTINF:0,OCS_CITY
-http://163.172.30.64:8789/live/admin/12345678/410.ts
-#EXTINF:0,CANVAS.HD
-http://163.172.30.64:8789/live/admin/12345678/1620.ts
-#EXTINF:0,OCS_CHOC_HD
-http://163.172.30.64:8789/live/admin/12345678/239.ts
-#EXTINF:0,OCS_CHOC
-http://163.172.30.64:8789/live/admin/12345678/68.ts
-#EXTINF:0,CINE+PREMIER-HD
-http://163.172.30.64:8789/live/admin/12345678/312.ts
-#EXTINF:0,CINE+FRISSON
-http://163.172.30.64:8789/live/admin/12345678/196.ts
-#EXTINF:0,CINE+FAMIZ-HD
-http://163.172.30.64:8789/live/admin/12345678/660.ts
-#EXTINF:0,CINE+FAMIZ
-http://163.172.30.64:8789/live/admin/12345678/238.ts
-#EXTINF:0,CINE+EMOTION-HD
-http://163.172.30.64:8789/live/admin/12345678/195.ts
-#EXTINF:0,CINE-EMOTION
-http://163.172.30.64:8789/live/admin/12345678/1627.ts
-#EXTINF:0,ACTION
-http://163.172.30.64:8789/live/admin/12345678/270.ts
-#EXTINF:0,CINE_POLAR
-http://163.172.30.64:8789/live/admin/12345678/311.ts
-#EXTINF:0,TCM.Cinema
-http://163.172.30.64:8789/live/admin/12345678/1414.ts
-#EXTINF:0,Cine_Classic-HD
-http://163.172.30.64:8789/live/admin/12345678/307.ts
-#EXTINF:0,CINE_FX
-http://163.172.30.64:8789/live/admin/12345678/305.ts
-#EXTINF:0,TCM-CINEMA-HD
-http://163.172.30.64:8789/live/admin/12345678/1626.ts
-#EXTINF:0,PARAMOUNT_CHANNEL_HD
-http://163.172.30.64:8789/live/admin/12345678/62.ts
-#EXTINF:0,CANALPLAY-1
-http://163.172.30.64:8789/live/admin/12345678/165.ts
-#EXTINF:0,CANALPLAY-2
-http://163.172.30.64:8789/live/admin/12345678/166.ts
-#EXTINF:0,CANALPLAY-3
-http://163.172.30.64:8789/live/admin/12345678/167.ts
-#EXTINF:0,CANALPLAY-4
-http://163.172.30.64:8789/live/admin/12345678/168.ts
-#EXTINF:0,CANALPLAY-5
-http://163.172.30.64:8789/live/admin/12345678/169.ts
-#EXTINF:0,CANALPLAY-6
-http://163.172.30.64:8789/live/admin/12345678/170.ts
-#EXTINF:0,CANALPLAY-7
-http://163.172.30.64:8789/live/admin/12345678/171.ts
-#EXTINF:0,CANALPLAY-8
-http://163.172.30.64:8789/live/admin/12345678/172.ts
-#EXTINF:0,CANALPLAY-9
-http://163.172.30.64:8789/live/admin/12345678/173.ts
-#EXTINF:0,CANALPLAY-10
-http://163.172.30.64:8789/live/admin/12345678/174.ts
-#EXTINF:0,CANALPLAY-11
-http://163.172.30.64:8789/live/admin/12345678/175.ts
-#EXTINF:0,CANALPLAY-12
-http://163.172.30.64:8789/live/admin/12345678/176.ts
-#EXTINF:0,CANALPLAY-13
-http://163.172.30.64:8789/live/admin/12345678/177.ts
-#EXTINF:0,CANALPLAY-14
-http://163.172.30.64:8789/live/admin/12345678/178.ts
-#EXTINF:0,CANALPLAY-15
-http://163.172.30.64:8789/live/admin/12345678/179.ts
-#EXTINF:0,CANALPLAY-16
-http://163.172.30.64:8789/live/admin/12345678/352.ts
-#EXTINF:0,=====Orange=====
-http://163.172.30.64:8789/live/admin/12345678/786.ts
-#EXTINF:0,Disney-Orange_1
-http://163.172.30.64:8789/live/admin/12345678/344.ts
-#EXTINF:0,Disney-Orange_2
-http://163.172.30.64:8789/live/admin/12345678/1638.ts
-#EXTINF:0,Disney-Orange_3
-http://163.172.30.64:8789/live/admin/12345678/1639.ts
-#EXTINF:0,Disney-Orange_4
-http://163.172.30.64:8789/live/admin/12345678/1640.ts
-#EXTINF:0,Orange_Cine
-http://163.172.30.64:8789/live/admin/12345678/782.ts
-#EXTINF:0,Orange_Cine+1
-http://163.172.30.64:8789/live/admin/12345678/730.ts
-#EXTINF:0,Orange_Cine+2
-http://163.172.30.64:8789/live/admin/12345678/729.ts
-#EXTINF:0,Orange_Cine+3
-http://163.172.30.64:8789/live/admin/12345678/67.ts
-#EXTINF:0,Orange_Cine+4
-http://163.172.30.64:8789/live/admin/12345678/693.ts
-#EXTINF:0,Orange_Cine+5
-http://163.172.30.64:8789/live/admin/12345678/732.ts
-#EXTINF:0,Orange_Cine+6
-http://163.172.30.64:8789/live/admin/12345678/99.ts
-#EXTINF:0,Orange_Cine+7
-http://163.172.30.64:8789/live/admin/12345678/98.ts
-#EXTINF:0,Orange_Cine+8
-http://163.172.30.64:8789/live/admin/12345678/388.ts
-#EXTINF:0,ALACARTE-1
-http://163.172.30.64:8789/live/admin/12345678/185.ts
-#EXTINF:0,ALACARTE-2
-http://163.172.30.64:8789/live/admin/12345678/184.ts
-#EXTINF:0,ALACARTE-3
-http://163.172.30.64:8789/live/admin/12345678/183.ts
-#EXTINF:0,ALACARTE-4
-http://163.172.30.64:8789/live/admin/12345678/199.ts
-#EXTINF:0,ALACARTE_5
-http://163.172.30.64:8789/live/admin/12345678/200.ts
-#EXTINF:0,ALACARTE_6
-http://163.172.30.64:8789/live/admin/12345678/209.ts
-#EXTINF:0,ALACARTE_7
-http://163.172.30.64:8789/live/admin/12345678/210.ts
-#EXTINF:0,ALACARTE_8
-http://163.172.30.64:8789/live/admin/12345678/211.ts
-#EXTINF:0,ALACARTE_9
-http://163.172.30.64:8789/live/admin/12345678/212.ts
-#EXTINF:0,ALACARTE-10
-http://163.172.30.64:8789/live/admin/12345678/213.ts
-#EXTINF:0,<<<<<>>>>>
-http://163.172.30.64:8789/live/admin/12345678/91.ts
-#EXTINF:0,SFR_SPORT.1
-http://163.172.30.64:8789/live/admin/12345678/985.ts
-#EXTINF:0,SFR_SPORT2
-http://163.172.30.64:8789/live/admin/12345678/420.ts
-#EXTINF:0,SFR_SPORT3
-http://163.172.30.64:8789/live/admin/12345678/1012.ts
-#EXTINF:0,SFR_SPORT5
-http://163.172.30.64:8789/live/admin/12345678/1065.ts
-#EXTINF:0,CANAL+SPORT.HD
-http://163.172.30.64:8789/live/admin/12345678/100.ts
-#EXTINF:0,FOOT-HD
-http://163.172.30.64:8789/live/admin/12345678/1628.ts
-#EXTINF:0,FOOT+24_SD
-http://163.172.30.64:8789/live/admin/12345678/425.ts
-#EXTINF:0,FR:BEINSPORT.1HD
-http://163.172.30.64:8789/live/admin/12345678/886.ts
-#EXTINF:0,FR:BEINSPORT.2HD
-http://163.172.30.64:8789/live/admin/12345678/887.ts
-#EXTINF:0,FR:BEINSPORT.3HD
-http://163.172.30.64:8789/live/admin/12345678/888.ts
-#EXTINF:0,FR:beINSPORT-1-SD
-http://163.172.30.64:8789/live/admin/12345678/92.ts
-#EXTINF:0,FR:beINSPORT-2-SD
-http://163.172.30.64:8789/live/admin/12345678/93.ts
-#EXTINF:0,FR:beINSPORT-3-SD
-http://163.172.30.64:8789/live/admin/12345678/94.ts
-#EXTINF:0,BEINSPORT-MAX-4
-http://163.172.30.64:8789/live/admin/12345678/95.ts
-#EXTINF:0,BEINSPORT-MAX-5
-http://163.172.30.64:8789/live/admin/12345678/1088.ts
-#EXTINF:0,BEINSPORT-MAX-6
-http://163.172.30.64:8789/live/admin/12345678/1089.ts
-#EXTINF:0,BEINSPORT-MAX-7
-http://163.172.30.64:8789/live/admin/12345678/1113.ts
-#EXTINF:0,BEINSPORT-MAX-8
-http://163.172.30.64:8789/live/admin/12345678/1468.ts
-#EXTINF:0,BEINSPORT-MAX-9
-http://163.172.30.64:8789/live/admin/12345678/1469.ts
-#EXTINF:0,BEINSPORT-MAX-10
-http://163.172.30.64:8789/live/admin/12345678/1470.ts
-#EXTINF:0,BFM-Sport
-http://163.172.30.64:8789/live/admin/12345678/1185.ts
-#EXTINF:0,INFOSPORT
-http://163.172.30.64:8789/live/admin/12345678/245.ts
-#EXTINF:0,L’EQUIPE_HD
-http://163.172.30.64:8789/live/admin/12345678/152.ts
-#EXTINF:0,L’Equipe.21-HD
-http://163.172.30.64:8789/live/admin/12345678/1511.ts
-#EXTINF:0,EQUIPE_21.SD
-http://163.172.30.64:8789/live/admin/12345678/1023.ts
-#EXTINF:0,AB_Moteur
-http://163.172.30.64:8789/live/admin/12345678/781.ts
-#EXTINF:0,AB.Moteur_SD
-http://163.172.30.64:8789/live/admin/12345678/1035.ts
-#EXTINF:0,EUROSPORT1
-http://163.172.30.64:8789/live/admin/12345678/142.ts
-#EXTINF:0,EUROSPORT2_FR
-http://163.172.30.64:8789/live/admin/12345678/87.ts
-#EXTINF:0,EQUIDIA_LIVE
-http://163.172.30.64:8789/live/admin/12345678/1036.ts
-#EXTINF:0,EQUIDIA-LIFE
-http://163.172.30.64:8789/live/admin/12345678/85.ts
-#EXTINF:0,=====SPORT_GOLF=====
-http://163.172.30.64:8789/live/admin/12345678/854.ts
-#EXTINF:0,FR:Golf+
-http://163.172.30.64:8789/live/admin/12345678/859.ts
-#EXTINF:0,USA:NBC-GOLF
-http://163.172.30.64:8789/live/admin/12345678/853.ts
-#EXTINF:0,<<<<<>>>>>
-http://163.172.30.64:8789/live/admin/12345678/138.ts
-#EXTINF:0,SERIE_CLUB
-http://163.172.30.64:8789/live/admin/12345678/193.ts
-#EXTINF:0,CANAL+SERIES_HD
-http://163.172.30.64:8789/live/admin/12345678/69.ts
-#EXTINF:0,13EME_RUE
-http://163.172.30.64:8789/live/admin/12345678/242.ts
-#EXTINF:0,13Eme-Rue.SD
-http://163.172.30.64:8789/live/admin/12345678/1758.ts
-#EXTINF:0,SYFY
-http://163.172.30.64:8789/live/admin/12345678/194.ts
-#EXTINF:0,SYFY_HD
-http://163.172.30.64:8789/live/admin/12345678/240.ts
-#EXTINF:0,Nautical_HD
-http://163.172.30.64:8789/live/admin/12345678/749.ts
-#EXTINF:0,TEVA
-http://163.172.30.64:8789/live/admin/12345678/189.ts
-#EXTINF:0,Téva_SD
-http://163.172.30.64:8789/live/admin/12345678/1031.ts
-#EXTINF:0,BRAVAHD
-http://163.172.30.64:8789/live/admin/12345678/314.ts
-#EXTINF:0,NOLIFE
-http://163.172.30.64:8789/live/admin/12345678/1098.ts
-#EXTINF:0,RTS_UN-HD
-http://163.172.30.64:8789/live/admin/12345678/259.ts
-#EXTINF:0,RTS-DEUX-HD
-http://163.172.30.64:8789/live/admin/12345678/260.ts
-#EXTINF:0,COMEDIE
-http://163.172.30.64:8789/live/admin/12345678/192.ts
-#EXTINF:0,E!_ENTERTAINEMENT
-http://163.172.30.64:8789/live/admin/12345678/289.ts
-#EXTINF:0,MCS-BIEN-ETRE
-http://163.172.30.64:8789/live/admin/12345678/1865.ts
-#EXTINF:0,Elle_Girl
-http://163.172.30.64:8789/live/admin/12345678/699.ts
-#EXTINF:0,BET
-http://163.172.30.64:8789/live/admin/12345678/449.ts
-#EXTINF:0,HD1
-http://163.172.30.64:8789/live/admin/12345678/1512.ts
-#EXTINF:0,HD1_SD
-http://163.172.30.64:8789/live/admin/12345678/1022.ts
-#EXTINF:0,AB1
-http://163.172.30.64:8789/live/admin/12345678/390.ts
-#EXTINF:0,AB3
-http://163.172.30.64:8789/live/admin/12345678/785.ts
-#EXTINF:0,C8-HD
-http://163.172.30.64:8789/live/admin/12345678/1330.ts
-#EXTINF:0,C8
-http://163.172.30.64:8789/live/admin/12345678/188.ts
-#EXTINF:0,DIRECTSTAR
-http://163.172.30.64:8789/live/admin/12345678/1090.ts
-#EXTINF:0,DIRECT8
-http://163.172.30.64:8789/live/admin/12345678/1091.ts
-#EXTINF:0,Cstar
-http://163.172.30.64:8789/live/admin/12345678/187.ts
-#EXTINF:0,WEO
-http://163.172.30.64:8789/live/admin/12345678/503.ts
-#EXTINF:0,TVA
-http://163.172.30.64:8789/live/admin/12345678/613.ts
-#EXTINF:0,TV7
-http://163.172.30.64:8789/live/admin/12345678/455.ts
-#EXTINF:0,MIRABELLE_TV
-http://163.172.30.64:8789/live/admin/12345678/722.ts
-#EXTINF:0,RTL9
-http://163.172.30.64:8789/live/admin/12345678/197.ts
-#EXTINF:0,RTL.9_SD
-http://163.172.30.64:8789/live/admin/12345678/1029.ts
-#EXTINF:0,NUMERO-23
-http://163.172.30.64:8789/live/admin/12345678/308.ts
-#EXTINF:0,Numero.23_SD
-http://163.172.30.64:8789/live/admin/12345678/1025.ts
-#EXTINF:0,NT1-HD
-http://163.172.30.64:8789/live/admin/12345678/1508.ts
-#EXTINF:0,NT1.SD
-http://163.172.30.64:8789/live/admin/12345678/1015.ts
-#EXTINF:0,W9-HD
-http://163.172.30.64:8789/live/admin/12345678/1507.ts
-#EXTINF:0,W9_SD
-http://163.172.30.64:8789/live/admin/12345678/421.ts
-#EXTINF:0,Ofive.tv
-http://163.172.30.64:8789/live/admin/12345678/1038.ts
-#EXTINF:0,Luxe.Tv
-http://163.172.30.64:8789/live/admin/12345678/1054.ts
-#EXTINF:0,VOSGES
-http://163.172.30.64:8789/live/admin/12345678/1102.ts
-#EXTINF:0,M6_BOUTIQUE
-http://163.172.30.64:8789/live/admin/12345678/1097.ts
-#EXTINF:0,FASHIONTV
-http://163.172.30.64:8789/live/admin/12345678/1064.ts
-#EXTINF:0,BESTOFSHOP
-http://163.172.30.64:8789/live/admin/12345678/81.ts
-#EXTINF:0,LUCKYJACK
-http://163.172.30.64:8789/live/admin/12345678/1062.ts
-#EXTINF:0,<<<<<>>>>>
-http://163.172.30.64:8789/live/admin/12345678/139.ts
-#EXTINF:0,DISNY.CHANNEL-HD
-http://163.172.30.64:8789/live/admin/12345678/1621.ts
-#EXTINF:0,DISNEY_CHANNEL
-http://163.172.30.64:8789/live/admin/12345678/198.ts
-#EXTINF:0,Disney_Channel-SD
-http://163.172.30.64:8789/live/admin/12345678/1040.ts
-#EXTINF:0,Disney-Channel+1
-http://163.172.30.64:8789/live/admin/12345678/1041.ts
-#EXTINF:0,DISNEY_CHANNEL+1
-http://163.172.30.64:8789/live/admin/12345678/88.ts
-#EXTINF:0,Disney_XD
-http://163.172.30.64:8789/live/admin/12345678/532.ts
-#EXTINF:0,DISNEY_JUNIOR_HD
-http://163.172.30.64:8789/live/admin/12345678/64.ts
-#EXTINF:0,Disney_cinema
-http://163.172.30.64:8789/live/admin/12345678/453.ts
-#EXTINF:0,NICKELODEON
-http://163.172.30.64:8789/live/admin/12345678/181.ts
-#EXTINF:0,NICKELODEON_JUNIOR
-http://163.172.30.64:8789/live/admin/12345678/182.ts
-#EXTINF:0,TELETOON
-http://163.172.30.64:8789/live/admin/12345678/994.ts
-#EXTINF:0,PIWI-HD
-http://163.172.30.64:8789/live/admin/12345678/1625.ts
-#EXTINF:0,PIWI
-http://163.172.30.64:8789/live/admin/12345678/249.ts
-#EXTINF:0,Baby_TV
-http://163.172.30.64:8789/live/admin/12345678/748.ts
-#EXTINF:0,zouzous
-http://163.172.30.64:8789/live/admin/12345678/777.ts
-#EXTINF:0,Canal_J
-http://163.172.30.64:8789/live/admin/12345678/454.ts
-#EXTINF:0,TIJI
-http://163.172.30.64:8789/live/admin/12345678/1622.ts
-#EXTINF:0,TIJI-HD
-http://163.172.30.64:8789/live/admin/12345678/456.ts
-#EXTINF:0,BOOMERANG
-http://163.172.30.64:8789/live/admin/12345678/63.ts
-#EXTINF:0,BOiNg
-http://163.172.30.64:8789/live/admin/12345678/794.ts
-#EXTINF:0,CARTOON_NETWORK
-http://163.172.30.64:8789/live/admin/12345678/65.ts
-#EXTINF:0,Game-One
-http://163.172.30.64:8789/live/admin/12345678/1034.ts
-#EXTINF:0,J-ONE
-http://163.172.30.64:8789/live/admin/12345678/284.ts
-#EXTINF:0,GULLI
-http://163.172.30.64:8789/live/admin/12345678/297.ts
-#EXTINF:0,Gulli_SD
-http://163.172.30.64:8789/live/admin/12345678/1020.ts
-#EXTINF:0,GONG
-http://163.172.30.64:8789/live/admin/12345678/248.ts
-#EXTINF:0,MANGAS
-http://163.172.30.64:8789/live/admin/12345678/66.ts
-#EXTINF:0,GinX
-http://163.172.30.64:8789/live/admin/12345678/1060.ts
-#EXTINF:0,<<<<<>>>>>
-http://163.172.30.64:8789/live/admin/12345678/137.ts
-#EXTINF:0,PLANET+
-http://163.172.30.64:8789/live/admin/12345678/271.ts
-#EXTINF:0,PLANETE_CI
-http://163.172.30.64:8789/live/admin/12345678/246.ts
-#EXTINF:0,PLANETE_A&E
-http://163.172.30.64:8789/live/admin/12345678/247.ts
-#EXTINF:0,DISCOVERY-HD
-http://163.172.30.64:8789/live/admin/12345678/1759.ts
-#EXTINF:0,DISCOVERY_SC-HD
-http://163.172.30.64:8789/live/admin/12345678/1760.ts
-#EXTINF:0,DISCOVERY-FR
-http://163.172.30.64:8789/live/admin/12345678/269.ts
-#EXTINF:0,DISCOVERY-SCIENCE
-http://163.172.30.64:8789/live/admin/12345678/286.ts
-#EXTINF:0,NATIONAL-GEO
-http://163.172.30.64:8789/live/admin/12345678/285.ts
-#EXTINF:0,NAT_GEO_WILD
-http://163.172.30.64:8789/live/admin/12345678/143.ts
-#EXTINF:0,EEN.HD
-http://163.172.30.64:8789/live/admin/12345678/1623.ts
-#EXTINF:0,Scienc&Vie
-http://163.172.30.64:8789/live/admin/12345678/288.ts
-#EXTINF:0,ANIMAUX_HD
-http://163.172.30.64:8789/live/admin/12345678/33.ts
-#EXTINF:0,USHUAIA
-http://163.172.30.64:8789/live/admin/12345678/272.ts
-#EXTINF:0,USHUAIA_TV
-http://163.172.30.64:8789/live/admin/12345678/1055.ts
-#EXTINF:0,RMC_SD
-http://163.172.30.64:8789/live/admin/12345678/1026.ts
-#EXTINF:0,VOYAGE
-http://163.172.30.64:8789/live/admin/12345678/458.ts
-#EXTINF:0,RMC_Decouvert
-http://163.172.30.64:8789/live/admin/12345678/310.ts
-#EXTINF:0,TREK
-http://163.172.30.64:8789/live/admin/12345678/389.ts
-#EXTINF:0,CHASSE-PECHE
-http://163.172.30.64:8789/live/admin/12345678/287.ts
-#EXTINF:0,SEASONS
-http://163.172.30.64:8789/live/admin/12345678/703.ts
-#EXTINF:0,toute_L’Hisoire
-http://163.172.30.64:8789/live/admin/12345678/296.ts
-#EXTINF:0,HISTOIRE_HD
-http://163.172.30.64:8789/live/admin/12345678/306.ts
-#EXTINF:0,Histoir_SD
-http://163.172.30.64:8789/live/admin/12345678/1056.ts
-#EXTINF:0,CHERIE_25
-http://163.172.30.64:8789/live/admin/12345678/298.ts
-#EXTINF:0,CHERIE.25_SD
-http://163.172.30.64:8789/live/admin/12345678/1027.ts
-#EXTINF:0,<<<<<>>>>>
-http://163.172.30.64:8789/live/admin/12345678/190.ts
-#EXTINF:0,CNN_INTERNATIONAL_FR
-http://163.172.30.64:8789/live/admin/12345678/1863.ts
-#EXTINF:0,EURONEWS_FR
-http://163.172.30.64:8789/live/admin/12345678/300.ts
-#EXTINF:0,France-24.ENG
-http://163.172.30.64:8789/live/admin/12345678/1044.ts
-#EXTINF:0,FRANCE_24
-http://163.172.30.64:8789/live/admin/12345678/162.ts
-#EXTINF:0,BFM_TV_HD
-http://163.172.30.64:8789/live/admin/12345678/155.ts
-#EXTINF:0,BFM_BUISINESS
-http://163.172.30.64:8789/live/admin/12345678/1045.ts
-#EXTINF:0,BFM_TV.SD
-http://163.172.30.64:8789/live/admin/12345678/424.ts
-#EXTINF:0,LCI
-http://163.172.30.64:8789/live/admin/12345678/1042.ts
-#EXTINF:0,LCP
-http://163.172.30.64:8789/live/admin/12345678/1016.ts
-#EXTINF:0,LCP100%
-http://163.172.30.64:8789/live/admin/12345678/1046.ts
-#EXTINF:0,iTELE
-http://163.172.30.64:8789/live/admin/12345678/186.ts
-#EXTINF:0,iTELE_SD
-http://163.172.30.64:8789/live/admin/12345678/1017.ts
-#EXTINF:0,TV5_MONDE
-http://163.172.30.64:8789/live/admin/12345678/309.ts
-#EXTINF:0,TV-5monde
-http://163.172.30.64:8789/live/admin/12345678/1033.ts
-#EXTINF:0,i24News
-http://163.172.30.64:8789/live/admin/12345678/1050.ts
-#EXTINF:0,CNN_INTERNATIONAL
-http://163.172.30.64:8789/live/admin/12345678/1092.ts
-#EXTINF:0,TELESUD
-http://163.172.30.64:8789/live/admin/12345678/1101.ts
-#EXTINF:0,GUYSENTV
-http://163.172.30.64:8789/live/admin/12345678/1063.ts
-#EXTINF:0,ALSACE
-http://163.172.30.64:8789/live/admin/12345678/82.ts
-#EXTINF:0,=====MUSIC=====
-http://163.172.30.64:8789/live/admin/12345678/268.ts
-#EXTINF:0,M6_Music_Club
-http://163.172.30.64:8789/live/admin/12345678/422.ts
-#EXTINF:0,TROPIC.TV
-http://163.172.30.64:8789/live/admin/12345678/1057.ts
-#EXTINF:0,CLUBBING
-http://163.172.30.64:8789/live/admin/12345678/1093.ts
-#EXTINF:0,TRACE-URBAIN
-http://163.172.30.64:8789/live/admin/12345678/1099.ts
-#EXTINF:0,MTV-PULSE
-http://163.172.30.64:8789/live/admin/12345678/264.ts
-#EXTINF:0,MTV-MUSIC
-http://163.172.30.64:8789/live/admin/12345678/265.ts
-#EXTINF:0,MTV-DANCE
-http://163.172.30.64:8789/live/admin/12345678/412.ts
-#EXTINF:0,MTV-BASE
-http://163.172.30.64:8789/live/admin/12345678/266.ts
-#EXTINF:0,MTV
-http://163.172.30.64:8789/live/admin/12345678/267.ts
-#EXTINF:0,MCM
-http://163.172.30.64:8789/live/admin/12345678/1037.ts
-#EXTINF:0,MCM_POP_MUSIC
-http://163.172.30.64:8789/live/admin/12345678/992.ts
-#EXTINF:0,NRJ12-HD
-http://163.172.30.64:8789/live/admin/12345678/1510.ts
-#EXTINF:0,NRJ12_SD
-http://163.172.30.64:8789/live/admin/12345678/1019.ts
-#EXTINF:0,NRJ12_HITS
-http://163.172.30.64:8789/live/admin/12345678/1344.ts
-#EXTINF:0,Djazz_tv
-http://163.172.30.64:8789/live/admin/12345678/716.ts
+#EXTINF:-1,-------|FR CINEMA PRIVE|-------
+http://topiptv.net:5890/live/bmw/1234/3218.ts
+#EXTINF:-1,FR|CANAL+HD
+http://topiptv.net:5890/live/bmw/1234/2594.ts
+#EXTINF:-1,FR|CANAL+SERIES HD
+http://topiptv.net:5890/live/bmw/1234/333.ts
+#EXTINF:-1,FR|CANAL+FAMILY HD
+http://topiptv.net:5890/live/bmw/1234/335.ts
+#EXTINF:-1,FR|CANAL+CINEMA HD
+http://topiptv.net:5890/live/bmw/1234/332.ts
+#EXTINF:-1,FR|CINE+ FRISSON HD
+http://topiptv.net:5890/live/bmw/1234/338.ts
+#EXTINF:-1,FR|CINE+ PREMIER HD
+http://topiptv.net:5890/live/bmw/1234/334.ts
+#EXTINF:-1,-----|FRANCE|------
+http://topiptv.net:5890/live/bmw/1234/1496.ts
+#EXTINF:-1,FR|TF1 HD
+http://topiptv.net:5890/live/bmw/1234/1775.ts
+#EXTINF:-1,FR|TF1
+http://topiptv.net:5890/live/bmw/1234/322.ts
+#EXTINF:-1,FR|FRANCE 2 HD
+http://topiptv.net:5890/live/bmw/1234/1776.ts
+#EXTINF:-1,FR|France 2
+http://topiptv.net:5890/live/bmw/1234/312.ts
+#EXTINF:-1,FR|FRANCE 3 HD
+http://topiptv.net:5890/live/bmw/1234/1814.ts
+#EXTINF:-1,FR|France 3
+http://topiptv.net:5890/live/bmw/1234/313.ts
+#EXTINF:-1,FR|France 4
+http://topiptv.net:5890/live/bmw/1234/314.ts
+#EXTINF:-1,FR|France 5
+http://topiptv.net:5890/live/bmw/1234/315.ts
+#EXTINF:-1,FR|France O
+http://topiptv.net:5890/live/bmw/1234/316.ts
+#EXTINF:-1,FR|M6 HD
+http://topiptv.net:5890/live/bmw/1234/1777.ts
+#EXTINF:-1,FR|M6
+http://topiptv.net:5890/live/bmw/1234/320.ts
+#EXTINF:-1,FR|W9 HD
+http://topiptv.net:5890/live/bmw/1234/1778.ts
+#EXTINF:-1,FR|W9
+http://topiptv.net:5890/live/bmw/1234/319.ts
+#EXTINF:-1,FR|C8
+http://topiptv.net:5890/live/bmw/1234/321.ts
+#EXTINF:-1,FR|C STAR
+http://topiptv.net:5890/live/bmw/1234/1008.ts
+#EXTINF:-1,FR|6TER HD
+http://topiptv.net:5890/live/bmw/1234/825.ts
+#EXTINF:-1,FR|6TER
+http://topiptv.net:5890/live/bmw/1234/1811.ts
+#EXTINF:-1,FR|RTS Un
+http://topiptv.net:5890/live/bmw/1234/995.ts
+#EXTINF:-1,FR|RTS Deux
+http://topiptv.net:5890/live/bmw/1234/1653.ts
+#EXTINF:-1,--|FR INFO|--
+http://topiptv.net:5890/live/bmw/1234/1497.ts
+#EXTINF:-1,FR|I-tele
+http://topiptv.net:5890/live/bmw/1234/1479.ts
+#EXTINF:-1,FR|bfm
+http://topiptv.net:5890/live/bmw/1234/1105.ts
+#EXTINF:-1,FR|Euronews
+http://topiptv.net:5890/live/bmw/1234/1484.ts
+#EXTINF:-1,FR|France24
+http://topiptv.net:5890/live/bmw/1234/1486.ts
+#EXTINF:-1,--|FR SPORT|--
+http://topiptv.net:5890/live/bmw/1234/1491.ts
+#EXTINF:-1,FR|beIN|SPORTS 1HD
+http://topiptv.net:5890/live/bmw/1234/21.ts
+#EXTINF:-1,FR|beIN|SPORTS 2HD
+http://topiptv.net:5890/live/bmw/1234/22.ts
+#EXTINF:-1,FR|beIN|SPORTS 3HD
+http://topiptv.net:5890/live/bmw/1234/829.ts
+#EXTINF:-1,FR|beIN SPORTS HD1
+http://topiptv.net:5890/live/bmw/1234/1780.ts
+#EXTINF:-1,FR|beIN SPORTS HD2
+http://topiptv.net:5890/live/bmw/1234/1781.ts
+#EXTINF:-1,FR|beIN SPORTS HD3
+http://topiptv.net:5890/live/bmw/1234/2593.ts
+#EXTINF:-1,FR|BeIN Sports MAX 4
+http://topiptv.net:5890/live/bmw/1234/1303.ts
+#EXTINF:-1,FR|BeIN Sports MAX 5
+http://topiptv.net:5890/live/bmw/1234/1304.ts
+#EXTINF:-1,FR|BeIN Sports MAX 6
+http://topiptv.net:5890/live/bmw/1234/1305.ts
+#EXTINF:-1,FR|BeIN Sports MAX 7
+http://topiptv.net:5890/live/bmw/1234/1306.ts
+#EXTINF:-1,FR|BeIN Sports MAX 8
+http://topiptv.net:5890/live/bmw/1234/1307.ts
+#EXTINF:-1,FR|CANAL+SPORT HD
+http://topiptv.net:5890/live/bmw/1234/1779.ts
+#EXTINF:-1,FR|CANAL+ SPORT HD
+http://topiptv.net:5890/live/bmw/1234/339.ts
+#EXTINF:-1,FR|SFR SPORTS 1HD
+http://topiptv.net:5890/live/bmw/1234/2590.ts
+#EXTINF:-1,FR|SFR SPORTS 2HD
+http://topiptv.net:5890/live/bmw/1234/1267.ts
+#EXTINF:-1,FR|SFR SPORTS 3HD
+http://topiptv.net:5890/live/bmw/1234/2595.ts
+#EXTINF:-1,FR|SFR SPORTS 5 HD
+http://topiptv.net:5890/live/bmw/1234/4194.ts
+#EXTINF:-1,FR|Foot+ 24/24
+http://topiptv.net:5890/live/bmw/1234/1631.ts
+#EXTINF:-1,FR|GOLF+HD
+http://topiptv.net:5890/live/bmw/1234/1782.ts
+#EXTINF:-1,FR|INFOSPORT+
+http://topiptv.net:5890/live/bmw/1234/873.ts
+#EXTINF:-1,FR|Kombat Sport
+http://topiptv.net:5890/live/bmw/1234/3124.ts
+#EXTINF:-1,FR|Eurosport HD
+http://topiptv.net:5890/live/bmw/1234/872.ts
+#EXTINF:-1,FR|Eurosport 2 HD
+http://topiptv.net:5890/live/bmw/1234/1103.ts
+#EXTINF:-1,FR|L EQUIPE 21
+http://topiptv.net:5890/live/bmw/1234/326.ts
+#EXTINF:-1,FR|Equidia Live
+http://topiptv.net:5890/live/bmw/1234/1774.ts
+#EXTINF:-1,--|FR CINEMA|--
+http://topiptv.net:5890/live/bmw/1234/1493.ts
+#EXTINF:-1,FR|CANAL+
+http://topiptv.net:5890/live/bmw/1234/331.ts
+#EXTINF:-1,FR|SERIE CLUB HD
+http://topiptv.net:5890/live/bmw/1234/329.ts
+#EXTINF:-1,FR|serie club
+http://topiptv.net:5890/live/bmw/1234/1833.ts
+#EXTINF:-1,FR|CANAL+ SERIE
+http://topiptv.net:5890/live/bmw/1234/1832.ts
+#EXTINF:-1,FR|Canal cinema
+http://topiptv.net:5890/live/bmw/1234/1803.ts
+#EXTINF:-1,FR|Canal+ family
+http://topiptv.net:5890/live/bmw/1234/1804.ts
+#EXTINF:-1,FR|Cine Premier
+http://topiptv.net:5890/live/bmw/1234/1805.ts
+#EXTINF:-1,FR|CINE+FRISSON
+http://topiptv.net:5890/live/bmw/1234/3217.ts
+#EXTINF:-1,FR|CINE+ EMOTION
+http://topiptv.net:5890/live/bmw/1234/336.ts
+#EXTINF:-1,FR|CINÉ POLAR
+http://topiptv.net:5890/live/bmw/1234/1216.ts
+#EXTINF:-1,FR|CINÉ FX
+http://topiptv.net:5890/live/bmw/1234/1217.ts
+#EXTINF:-1,FR|CINE+ CLASSIC
+http://topiptv.net:5890/live/bmw/1234/1218.ts
+#EXTINF:-1,FR|Ciné +Famiz
+http://topiptv.net:5890/live/bmw/1234/827.ts
+#EXTINF:-1,FR|CANAL+ DECALE
+http://topiptv.net:5890/live/bmw/1234/337.ts
+#EXTINF:-1,FR|TCM Cinema
+http://topiptv.net:5890/live/bmw/1234/1891.ts
+#EXTINF:-1,FR|OCS MAX
+http://topiptv.net:5890/live/bmw/1234/1100.ts
+#EXTINF:-1,FR|OCS GEANTS
+http://topiptv.net:5890/live/bmw/1234/1101.ts
+#EXTINF:-1,FR|OCS CHOC
+http://topiptv.net:5890/live/bmw/1234/1102.ts
+#EXTINF:-1,FR|OCS CITY
+http://topiptv.net:5890/live/bmw/1234/824.ts
+#EXTINF:-1,FR|OCS HORREUR
+http://topiptv.net:5890/live/bmw/1234/2019.ts
+#EXTINF:-1,FR|OCS AVENTURE
+http://topiptv.net:5890/live/bmw/1234/2021.ts
+#EXTINF:-1,FR|OCS ACTION
+http://topiptv.net:5890/live/bmw/1234/2020.ts
+#EXTINF:-1,FR|OCS GO COMEDIE
+http://topiptv.net:5890/live/bmw/1234/2017.ts
+#EXTINF:-1,FR|OCS DOCUMENTAIRE
+http://topiptv.net:5890/live/bmw/1234/2018.ts
+#EXTINF:-1,--|FR DIVERTISSE|--
+http://topiptv.net:5890/live/bmw/1234/1495.ts
+#EXTINF:-1,FR|AB1 HD
+http://topiptv.net:5890/live/bmw/1234/1786.ts
+#EXTINF:-1,FR|HD 1
+http://topiptv.net:5890/live/bmw/1234/1185.ts
+#EXTINF:-1,FR|TMC HD
+http://topiptv.net:5890/live/bmw/1234/1123.ts
+#EXTINF:-1,FR|TMC
+http://topiptv.net:5890/live/bmw/1234/1816.ts
+#EXTINF:-1,FR|NT1 HD
+http://topiptv.net:5890/live/bmw/1234/926.ts
+#EXTINF:-1,FR|NT1
+http://topiptv.net:5890/live/bmw/1234/1834.ts
+#EXTINF:-1,FR|Teva
+http://topiptv.net:5890/live/bmw/1234/1513.ts
+#EXTINF:-1,FR|E! HD
+http://topiptv.net:5890/live/bmw/1234/1124.ts
+#EXTINF:-1,FR|RTL 9
+http://topiptv.net:5890/live/bmw/1234/318.ts
+#EXTINF:-1,FR|TV BREIZH
+http://topiptv.net:5890/live/bmw/1234/1773.ts
+#EXTINF:-1,FR|Numero 23
+http://topiptv.net:5890/live/bmw/1234/1772.ts
+#EXTINF:-1,FR|NRJ12
+http://topiptv.net:5890/live/bmw/1234/823.ts
+#EXTINF:-1,FR|Syfy Universal HD
+http://topiptv.net:5890/live/bmw/1234/328.ts
+#EXTINF:-1,FR|ACTION HD
+http://topiptv.net:5890/live/bmw/1234/317.ts
+#EXTINF:-1,FR|13EME RUE HD
+http://topiptv.net:5890/live/bmw/1234/826.ts
+#EXTINF:-1,FR|PARIS PREMIERE
+http://topiptv.net:5890/live/bmw/1234/1186.ts
+#EXTINF:-1,FR|Paramount Channel
+http://topiptv.net:5890/live/bmw/1234/1630.ts
+#EXTINF:-1,FR|Cherie 25
+http://topiptv.net:5890/live/bmw/1234/1125.ts
+#EXTINF:-1,FR|COMEDIE+
+http://topiptv.net:5890/live/bmw/1234/340.ts
+#EXTINF:-1,FR|Comedie +
+http://topiptv.net:5890/live/bmw/1234/1806.ts
+#EXTINF:-1,FR|Enorme-TV
+http://topiptv.net:5890/live/bmw/1234/1017.ts
+#EXTINF:-1,FR|Arte
+http://topiptv.net:5890/live/bmw/1234/324.ts
+#EXTINF:-1,FR|Wéo HD
+http://topiptv.net:5890/live/bmw/1234/1556.ts
+#EXTINF:-1,FR|Monaco Info
+http://topiptv.net:5890/live/bmw/1234/1552.ts
+#EXTINF:-1,--|FR MUSIC|--
+http://topiptv.net:5890/live/bmw/1234/1510.ts
+#EXTINF:-1,FR|MTV
+http://topiptv.net:5890/live/bmw/1234/1509.ts
+#EXTINF:-1,FR|Virgin
+http://topiptv.net:5890/live/bmw/1234/1265.ts
+#EXTINF:-1,FR|NRJ HITS HD
+http://topiptv.net:5890/live/bmw/1234/4195.ts
+#EXTINF:-1,FR|M6 MUSIC
+http://topiptv.net:5890/live/bmw/1234/1187.ts
+#EXTINF:-1,--|FR DOCUMENTAIRE|--
+http://topiptv.net:5890/live/bmw/1234/1492.ts
+#EXTINF:-1,FR|PLANETE
+http://topiptv.net:5890/live/bmw/1234/345.ts
+#EXTINF:-1,FR|PLANETE CI HD
+http://topiptv.net:5890/live/bmw/1234/346.ts
+#EXTINF:-1,FR|Planete+ CI HD
+http://topiptv.net:5890/live/bmw/1234/1807.ts
+#EXTINF:-1,FR|PLANETE A&E
+http://topiptv.net:5890/live/bmw/1234/347.ts
+#EXTINF:-1,FR|VOYAGE HD
+http://topiptv.net:5890/live/bmw/1234/925.ts
+#EXTINF:-1,FR|DISCOVERY  HD
+http://topiptv.net:5890/live/bmw/1234/342.ts
+#EXTINF:-1,FR|Discovery HD
+http://topiptv.net:5890/live/bmw/1234/1810.ts
+#EXTINF:-1,FR|Discovery Science
+http://topiptv.net:5890/live/bmw/1234/1831.ts
+#EXTINF:-1,FR|DISCOVERY SCIENCE HD
+http://topiptv.net:5890/live/bmw/1234/913.ts
+#EXTINF:-1,FR|TREK HD
+http://topiptv.net:5890/live/bmw/1234/1783.ts
+#EXTINF:-1,FR|SEASON HD
+http://topiptv.net:5890/live/bmw/1234/1784.ts
+#EXTINF:-1,FR|SCIENCES ET VIE HD
+http://topiptv.net:5890/live/bmw/1234/2074.ts
+#EXTINF:-1,FR|Science et Vie
+http://topiptv.net:5890/live/bmw/1234/1150.ts
+#EXTINF:-1,FR|NAT GEO WILD HD
+http://topiptv.net:5890/live/bmw/1234/343.ts
+#EXTINF:-1,FR|NATIONAL GEOGRAPHIC HD
+http://topiptv.net:5890/live/bmw/1234/344.ts
+#EXTINF:-1,FR|National Geo HD
+http://topiptv.net:5890/live/bmw/1234/1809.ts
+#EXTINF:-1,FR|Chasse et Pêche
+http://topiptv.net:5890/live/bmw/1234/330.ts
+#EXTINF:-1,FR|Animaux hd
+http://topiptv.net:5890/live/bmw/1234/325.ts
+#EXTINF:-1,FR|Animaux
+http://topiptv.net:5890/live/bmw/1234/1808.ts
+#EXTINF:-1,FR|USHUAIA TV
+http://topiptv.net:5890/live/bmw/1234/828.ts
+#EXTINF:-1,FR|RMC Decouverte HD
+http://topiptv.net:5890/live/bmw/1234/1009.ts
+#EXTINF:-1,FR|toute l'histoire
+http://topiptv.net:5890/live/bmw/1234/1737.ts
+#EXTINF:-1,--|FR ENFANT|--
+http://topiptv.net:5890/live/bmw/1234/1494.ts
+#EXTINF:-1,FR|Zouzous
+http://topiptv.net:5890/live/bmw/1234/1898.ts
+#EXTINF:-1,FR|GameOne
+http://topiptv.net:5890/live/bmw/1234/1839.ts
+#EXTINF:-1,FR|NICKELODEON HD
+http://topiptv.net:5890/live/bmw/1234/1787.ts
+#EXTINF:-1,FR|NICK JR
+http://topiptv.net:5890/live/bmw/1234/1785.ts
+#EXTINF:-1,FR|Gulli
+http://topiptv.net:5890/live/bmw/1234/327.ts
+#EXTINF:-1,FR|MANGAS
+http://topiptv.net:5890/live/bmw/1234/1035.ts
+#EXTINF:-1,FR|TéléTOON
+http://topiptv.net:5890/live/bmw/1234/1264.ts
+#EXTINF:-1,FR|DisneyJunior HD
+http://topiptv.net:5890/live/bmw/1234/341.ts
+#EXTINF:-1,FR|DISNEY CHANNEL
+http://topiptv.net:5890/live/bmw/1234/921.ts
+#EXTINF:-1,FR|DISNEY CINEMA
+http://topiptv.net:5890/live/bmw/1234/1104.ts
+#EXTINF:-1,FR|PIWI+
+http://topiptv.net:5890/live/bmw/1234/819.ts
+#EXTINF:-1,FR|CARTOON NETWORK
+http://topiptv.net:5890/live/bmw/1234/822.ts
+#EXTINF:-1,FR|Boomerang
+http://topiptv.net:5890/live/bmw/1234/868.ts
+#EXTINF:-1,FR|CANAL J
+http://topiptv.net:5890/live/bmw/1234/820.ts
+#EXTINF:-1,FR|Tiji
+http://topiptv.net:5890/live/bmw/1234/871.ts
+#EXTINF:-1,--|FR PPV|--
+http://topiptv.net:5890/live/bmw/1234/1490.ts
+#EXTINF:-1,FR|CANALPLAY 1
+http://topiptv.net:5890/live/bmw/1234/1037.ts
+#EXTINF:-1,FR|CANALPLAY 2
+http://topiptv.net:5890/live/bmw/1234/1038.ts
+#EXTINF:-1,FR|CANALPLAY3
+http://topiptv.net:5890/live/bmw/1234/1039.ts
+#EXTINF:-1,FR|CANAPLAY 4
+http://topiptv.net:5890/live/bmw/1234/1040.ts
+#EXTINF:-1,FR|CANALPLAY 5
+http://topiptv.net:5890/live/bmw/1234/1041.ts
+#EXTINF:-1,FR|CANALPLAY 6
+http://topiptv.net:5890/live/bmw/1234/1036.ts
+#EXTINF:-1,------|BELGIQUE|------
+http://topiptv.net:5890/live/bmw/1234/854.ts
+#EXTINF:-1,BEL|La Une
+http://topiptv.net:5890/live/bmw/1234/848.ts
+#EXTINF:-1,BEL|La Deux
+http://topiptv.net:5890/live/bmw/1234/846.ts
+#EXTINF:-1,BEL|La Trois
+http://topiptv.net:5890/live/bmw/1234/847.ts
+#EXTINF:-1,BEL|RTL-TVI
+http://topiptv.net:5890/live/bmw/1234/850.ts
+#EXTINF:-1,BEL|Plug RTL
+http://topiptv.net:5890/live/bmw/1234/849.ts
+#EXTINF:-1,BEL|Club RTL
+http://topiptv.net:5890/live/bmw/1234/994.ts
+#EXTINF:-1,BEL|TV Lux
+http://topiptv.net:5890/live/bmw/1234/1586.ts
+#EXTINF:-1,BEL|Televesdre
+http://topiptv.net:5890/live/bmw/1234/1585.ts
+#EXTINF:-1,BEL|Telesambre
+http://topiptv.net:5890/live/bmw/1234/1584.ts
+#EXTINF:-1,BEL|VTM HD
+http://topiptv.net:5890/live/bmw/1234/1985.ts
+#EXTINF:-1,BEL|VITAYA
+http://topiptv.net:5890/live/bmw/1234/1986.ts
+#EXTINF:-1,BEL|VIJF
+http://topiptv.net:5890/live/bmw/1234/1988.ts
+#EXTINF:-1,BEL|VIER
+http://topiptv.net:5890/live/bmw/1234/1989.ts
+#EXTINF:-1,BEL|CANVAS HD
+http://topiptv.net:5890/live/bmw/1234/1987.ts
+#EXTINF:-1,BEL|TéLé MB
+http://topiptv.net:5890/live/bmw/1234/2623.ts
+#EXTINF:-1,BEL|AB3
+http://topiptv.net:5890/live/bmw/1234/2626.ts
+#EXTINF:-1,========||| CANAUX FRANCE|||========
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/9207.ts
+#EXTINF:-1,FR: 13eme Rue HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20143.ts
+#EXTINF:-1,FR: AB1
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20142.ts
+#EXTINF:-1,FR: Action
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20141.ts
+#EXTINF:-1,FR: AL Sace20
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20140.ts
+#EXTINF:-1,FR: Animaux
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20139.ts
+#EXTINF:-1,FR: Arte
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20138.ts
+#EXTINF:-1,FR: Bein Sport 1
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20137.ts
+#EXTINF:-1,FR: beiN Sport 1 HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20136.ts
+#EXTINF:-1,FR: Bein Sport 2
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20135.ts
+#EXTINF:-1,FR: beiN Sport 2 HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20134.ts
+#EXTINF:-1,FR: Bein Sport 3
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20133.ts
+#EXTINF:-1,FR: beiN Sport 3 HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20132.ts
+#EXTINF:-1,FR: beIN SPORTS 5 MAX
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20131.ts
+#EXTINF:-1,FR: beIN SPORTS 6 MAX
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20130.ts
+#EXTINF:-1,FR: beIN SPORTS 7 MAX
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20129.ts
+#EXTINF:-1,FR: beIN SPORTS NBA
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20128.ts
+#EXTINF:-1,FR: BFM Sport
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20127.ts
+#EXTINF:-1,FR: BFM TV
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20126.ts
+#EXTINF:-1,FR: Boing HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20125.ts
+#EXTINF:-1,FR: Boomerang HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20124.ts
+#EXTINF:-1,FR: C8
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20123.ts
+#EXTINF:-1,FR: Canal  Cinema HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20122.ts
+#EXTINF:-1,FR: Canal  Decale HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20121.ts
+#EXTINF:-1,FR: CANAL  FAMILY HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20120.ts
+#EXTINF:-1,FR: Canal  HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20119.ts
+#EXTINF:-1,FR: Canal  Series HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20118.ts
+#EXTINF:-1,FR: Canal  Sport HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20117.ts
+#EXTINF:-1,FR: Canal J
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20116.ts
+#EXTINF:-1,FR: Canal Plus Sport HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20115.ts
+#EXTINF:-1,FR: Canal Series HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20114.ts
+#EXTINF:-1,FR: CanalPlay Live (Alliés)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20113.ts
+#EXTINF:-1,FR: CanalPlay Live (Brice 3)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20112.ts
+#EXTINF:-1,FR: CanalPlay Live (Cigognes et compagnie)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20111.ts
+#EXTINF:-1,FR: CanalPlay Live (Comme des bêtes)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20110.ts
+#EXTINF:-1,FR: CanalPlay Live (Criminel)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20109.ts
+#EXTINF:-1,FR: CanalPlay Live (Doctor Strange)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20108.ts
+#EXTINF:-1,FR: CanalPlay Live (Extraction)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20107.ts
+#EXTINF:-1,FR: CanalPlay Live (Hors contrôle)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20106.ts
+#EXTINF:-1,FR: CanalPlay Live (Inferno)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20105.ts
+#EXTINF:-1,FR: CanalPlay Live (Jack Reacher:Never Go Back)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20104.ts
+#EXTINF:-1,FR: CanalPlay Live (Joyeux Bordel)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20103.ts
+#EXTINF:-1,FR: CanalPlay Live (Kickboxer-Vengeance)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20102.ts
+#EXTINF:-1,FR: CanalPlay Live (La Dream Team)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20101.ts
+#EXTINF:-1,FR: CanalPlay Live (La Fille de Brest)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20100.ts
+#EXTINF:-1,FR: CanalPlay Live (La Fille du train)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20099.ts
+#EXTINF:-1,FR: CanalPlay Live (La Folle Histoire de Max et Léon)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20098.ts
+#EXTINF:-1,FR: CanalPlay Live (Le Gang des Antillais)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20097.ts
+#EXTINF:-1,FR: CanalPlay Live (Le Petit locataire)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20096.ts
+#EXTINF:-1,FR: CanalPlay Live (Le Voyage au Groenland)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20095.ts
+#EXTINF:-1,FR: CanalPlay Live (Les Têtes de l'emploi)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20094.ts
+#EXTINF:-1,FR: CanalPlay Live (Les Trolls)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20093.ts
+#EXTINF:-1,FR: CanalPlay Live (Ma famille t'adore déjà)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20092.ts
+#EXTINF:-1,FR: CanalPlay Live (Mechanic Résurrection)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20091.ts
+#EXTINF:-1,FR: CanalPlay Live (Miss Peregrine et les enfants particuliers)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20090.ts
+#EXTINF:-1,FR: CanalPlay Live (Mr Wolff)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20089.ts
+#EXTINF:-1,FR: CanalPlay Live (Nocturnal Animals)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20088.ts
+#EXTINF:-1,FR: CanalPlay Live (Oppression)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20087.ts
+#EXTINF:-1,FR: CanalPlay Live (Radin!)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20086.ts
+#EXTINF:-1,FR: CanalPlay Live (Revenger)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20085.ts
+#EXTINF:-1,FR: CanalPlay Live (Rupture pour tous)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20084.ts
+#EXTINF:-1,FR: CanalPlay Live (Sausage Party  16ans)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20083.ts
+#EXTINF:-1,FR: CanalPlay Live (Snowden)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20082.ts
+#EXTINF:-1,FR: CanalPlay Live (Suicide Squad)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20081.ts
+#EXTINF:-1,FR: CanalPlay Live (Sully)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20080.ts
+#EXTINF:-1,FR: CanalPlay Live (Tamara)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20079.ts
+#EXTINF:-1,FR: CanalPlay Live (Toro)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20078.ts
+#EXTINF:-1,FR: CanalPlay Live (Tous en scène)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20077.ts
+#EXTINF:-1,FR: CanalPlay Live (Underworld-Blood Wars)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20076.ts
+#EXTINF:-1,FR: CanalPlay Live (Vaiana-la légende du bout du monde)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20075.ts
+#EXTINF:-1,FR: CanalPlay Live (Warcraft:Le commencement)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20074.ts
+#EXTINF:-1,FR: CanalPlay Live (X-Men:Apocalypse)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20073.ts
+#EXTINF:-1,FR: CanalPlay Live (xXx:Reactivated)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20072.ts
+#EXTINF:-1,FR: Cartoon Network HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20071.ts
+#EXTINF:-1,FR: Chasse & Peche
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20070.ts
+#EXTINF:-1,FR: CHERIE 25
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20069.ts
+#EXTINF:-1,FR: Cine  Classic HD.
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20068.ts
+#EXTINF:-1,FR: Cine  Club HD.
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20067.ts
+#EXTINF:-1,FR: Cine  Emotion HD.
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20066.ts
+#EXTINF:-1,FR: Cine  Famiz
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20065.ts
+#EXTINF:-1,FR: Cine  Frisson HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20064.ts
+#EXTINF:-1,FR: Cine  FX HD.
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20063.ts
+#EXTINF:-1,FR: Cine  Polar HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20062.ts
+#EXTINF:-1,FR: Cine  Premier HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20061.ts
+#EXTINF:-1,FR: Cine  Star HD.
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20060.ts
+#EXTINF:-1,FR: Cine Action HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20059.ts
+#EXTINF:-1,FR: Cine Comedie HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20058.ts
+#EXTINF:-1,FR: DISCOVERY HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20057.ts
+#EXTINF:-1,FR: Disney Channel
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20056.ts
+#EXTINF:-1,FR: Disney Cinema HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20055.ts
+#EXTINF:-1,FR: Disney Junior HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20054.ts
+#EXTINF:-1,FR: Disney XD HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20053.ts
+#EXTINF:-1,FR: EuroNews
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20052.ts
+#EXTINF:-1,FR: Euronews fr
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20051.ts
+#EXTINF:-1,FR: Foot   24 HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20050.ts
+#EXTINF:-1,FR: France 2 HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20049.ts
+#EXTINF:-1,FR: France 24 en Anglais
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20048.ts
+#EXTINF:-1,FR: France 24 News
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20047.ts
+#EXTINF:-1,FR: France 3 HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20046.ts
+#EXTINF:-1,FR: France 4 HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20045.ts
+#EXTINF:-1,FR: France 5 HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20044.ts
+#EXTINF:-1,FR: France O
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20043.ts
+#EXTINF:-1,FR: GONG
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20042.ts
+#EXTINF:-1,FR: Gulli
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20041.ts
+#EXTINF:-1,FR: HD1
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20040.ts
+#EXTINF:-1,FR: HISTOIRE
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20039.ts
+#EXTINF:-1,FR: iTele
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20038.ts
+#EXTINF:-1,FR: La Chaine Normande
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20037.ts
+#EXTINF:-1,FR: La Tele X
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20036.ts
+#EXTINF:-1,FR: LCP
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20035.ts
+#EXTINF:-1,FR: M6 HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20034.ts
+#EXTINF:-1,FR: M6 Music
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20033.ts
+#EXTINF:-1,FR: Mangas
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20032.ts
+#EXTINF:-1,FR: MONACO INFO
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20031.ts
+#EXTINF:-1,FR: MTV BASE FRANCE HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20030.ts
+#EXTINF:-1,FR: MTV Dance France HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20029.ts
+#EXTINF:-1,FR: MTV Rocks France HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20028.ts
+#EXTINF:-1,FR: Nat Geo HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20027.ts
+#EXTINF:-1,FR: National Geo
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20026.ts
+#EXTINF:-1,FR: National Geo Wild
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20025.ts
+#EXTINF:-1,FR: Nickelodeon
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20024.ts
+#EXTINF:-1,FR: Nickelodeon Junior
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20023.ts
+#EXTINF:-1,FR: Nrj12
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20022.ts
+#EXTINF:-1,FR: NT1
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20021.ts
+#EXTINF:-1,FR: OCS CHOC HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20020.ts
+#EXTINF:-1,FR: OCS CITY HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20019.ts
+#EXTINF:-1,FR: OCS GEANTS HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20018.ts
+#EXTINF:-1,FR: OCS MAX HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20017.ts
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20016.ts
+#EXTINF:-1,FR: Paris Premiere HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20015.ts
+#EXTINF:-1,FR: Piwi
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20014.ts
+#EXTINF:-1,FR: Planete-A-and-E-HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20013.ts
+#EXTINF:-1,FR: Planete-HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20012.ts
+#EXTINF:-1,FR: RMC Decouverte
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20011.ts
+#EXTINF:-1,FR: RTS LA DEUX HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20010.ts
+#EXTINF:-1,FR: RTS LA UN HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20009.ts
+#EXTINF:-1,FR: Serie Club
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20008.ts
+#EXTINF:-1,FR: SFR SPORT 1 HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20007.ts
+#EXTINF:-1,FR: SFR SPORT 2 HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20006.ts
+#EXTINF:-1,FR: SFR SPORT 3 HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20005.ts
+#EXTINF:-1,FR: SFR SPORT 4K
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20004.ts
+#EXTINF:-1,FR: Syfy HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20003.ts
+#EXTINF:-1,FR: TCM CINEMA
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20002.ts
+#EXTINF:-1,FR: Tele Sambre
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20001.ts
+#EXTINF:-1,FR: TeleToon
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/20000.ts
+#EXTINF:-1,FR: TF1 HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/19999.ts
+#EXTINF:-1,FR: TIJI
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/19998.ts
+#EXTINF:-1,FR: TMC
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/19997.ts
+#EXTINF:-1,FR: TV 5 Monde
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/19996.ts
+#EXTINF:-1,FR: W9 Music
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/19995.ts
+#EXTINF:-1,FR: WEO HD
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/19994.ts
+#EXTINF:-1,FR: ZOUZOU TV (petite)
+http://cdn01.iptvthebest.net:15000/live/Mota/mota1/19993.ts
+#EXTINF:-1,FR:Action
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3106.ts
+#EXTINF:-1,FR: france  2 HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1818.ts
+#EXTINF:-1,FR: DISNEY_CINEMA
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3777.ts
+#EXTINF:-1,FR: Canal  Sport
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3109.ts
+#EXTINF:-1,FR_FRANCE_3HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1817.ts
+#EXTINF:-1,FR_BFM_Business
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3121.ts
+#EXTINF:-1,FR: Ushuaia TV HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1803.ts
+#EXTINF:-1,FR: TMC
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1775.ts
+#EXTINF:-1,FR: RTL 9
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1777.ts
+#EXTINF:-1,FR: Planete  CI HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1783.ts
+#EXTINF:-1,FR: OCS Max
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1816.ts
+#EXTINF:-1,FR: OCS City
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1779.ts
+#EXTINF:-1,FR: Nat Geo
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1781.ts
+#EXTINF:-1,FR: Mangas
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1782.ts
+#EXTINF:-1,FR: M6 Music
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1784.ts
+#EXTINF:-1,FR: L'equipe 21*
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1804.ts
+#EXTINF:-1,FR: Cine  Premier
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1785.ts
+#EXTINF:-1,FR: Cine   Emotion HD*
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1805.ts
+#EXTINF:-1,FR: Chasse & Peche
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1786.ts
+#EXTINF:-1,FR: Canal  Sport HD*
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1787.ts
+#EXTINF:-1,FR: Canal  Sport HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1792.ts
+#EXTINF:-1,FR: Canal  Frisson
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1788.ts
+#EXTINF:-1,FR: Canal  Famiz HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1789.ts
+#EXTINF:-1,FR: Canal  Decale HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1793.ts
+#EXTINF:-1,FR: Canal  Classic HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1790.ts
+#EXTINF:-1,FR: Canal   Series HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1791.ts
+#EXTINF:-1,FR: beIN Sport 3 HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1800.ts
+#EXTINF:-1,FR: Action
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1801.ts
+#EXTINF:-1,FR: A LA CARTE 9
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1806.ts
+#EXTINF:-1,FR: A LA CARTE 8
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1807.ts
+#EXTINF:-1,FR: A LA CARTE 7
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1808.ts
+#EXTINF:-1,FR: A LA CARTE 6
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1809.ts
+#EXTINF:-1,FR: A LA CARTE 5
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1810.ts
+#EXTINF:-1,FR: A LA CARTE 4
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1811.ts
+#EXTINF:-1,FR: A LA CARTE 3
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1812.ts
+#EXTINF:-1,FR: A LA CARTE 2
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1813.ts
+#EXTINF:-1,FR: A LA CARTE 10
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1814.ts
+#EXTINF:-1,FR: A LA CARTE 1
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1815.ts
+#EXTINF:-1,FR: 6TER HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1780.ts
+#EXTINF:-1,FR: 13 Rue
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1802.ts
+#EXTINF:-1,FR:Foot 24
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1482.ts
+#EXTINF:-1,FR:DISNEY CINEMA
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1473.ts
+#EXTINF:-1,FR: TF1
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1484.ts
+#EXTINF:-1,FR: SCIENCE & VIE
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1467.ts
+#EXTINF:-1,FR: PIWI
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1477.ts
+#EXTINF:-1,FR: NATIONAL  GEOGRAPHIC
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1465.ts
+#EXTINF:-1,FR: Nat Geo Wild
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1464.ts
+#EXTINF:-1,FR: M6 HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1485.ts
+#EXTINF:-1,FR: GULLI
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1468.ts
+#EXTINF:-1,FR: France 5
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1486.ts
+#EXTINF:-1,FR: France 4
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1487.ts
+#EXTINF:-1,FR: France 3
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1488.ts
+#EXTINF:-1,FR: France 2
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1489.ts
+#EXTINF:-1,FR: Eurosport 1 HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1490.ts
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1474.ts
+#EXTINF:-1,FR: DISCOVERY SCIENCE
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1466.ts
+#EXTINF:-1,FR: CARTOON NETWORK
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1480.ts
+#EXTINF:-1,FR: CANAL J
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1476.ts
+#EXTINF:-1,FR: CANAL  HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1463.ts
+#EXTINF:-1,FR: Canal  Cinema HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1491.ts
+#EXTINF:-1,FR: Canal   Decale HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1493.ts
+#EXTINF:-1,FR: Canal
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1492.ts
+#EXTINF:-1,FR: Bein Sports 2 HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1494.ts
+#EXTINF:-1,FR: Bein Sports 1 HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1495.ts
